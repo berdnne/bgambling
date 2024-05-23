@@ -3,9 +3,9 @@
 	"id": "bgambling",
 	"version": "${version}",
 	"name": "Brenden's Gambling",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Gamble responsibly.",
 	"authors": [
-		"Me!"
+		"Berdnne"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",

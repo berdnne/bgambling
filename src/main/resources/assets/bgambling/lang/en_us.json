@@ -1,0 +1,10 @@
+{
+  "item.bgambling.white_chip": "White Chip",
+  "item.bgambling.red_chip": "Red Chip",
+  "item.bgambling.green_chip": "Green Chip",
+  "item.bgambling.black_chip": "Black Chip",
+
+  "itemgroup.gambling": "Brenden's Gambling",
+
+  "block.bgambling.blackjack_table": "Blackjack Table"
+}
