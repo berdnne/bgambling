@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "---",
+    "#x#",
+    "###"
+  ],
+  "key": {
+    "-": {
+      "item": "minecraft:green_carpet"
+    },
+    "#": {
+      "tag": "minecraft:planks"
+    },
+    "x": {
+      "item": "bgambling:black_chip"
+    }
+  },
+  "result": {
+    "id": "bgambling:blackjack_table",
+    "count": 1
+  }
+}

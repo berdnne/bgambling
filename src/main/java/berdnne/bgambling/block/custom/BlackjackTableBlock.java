@@ -16,6 +16,6 @@ public class BlackjackTableBlock extends Block {
 
     @Override
     protected ActionResult onUse(BlockState state, World world, BlockPos pos, PlayerEntity player, BlockHitResult hit) {
-        return super.onUse(state, world, pos, player, hit);
+        return ActionResult.SUCCESS;
     }
 }

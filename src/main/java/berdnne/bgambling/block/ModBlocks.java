@@ -23,9 +23,9 @@ public class ModBlocks {
 
     }
 
-    private static Item registerBlockItem(String name, Block block) {
+    private static void registerBlockItem(String name, Block block) {
 
-        return Registry.register(Registries.ITEM, new Identifier(BrendensGambling.MOD_ID, name),
+        Registry.register(Registries.ITEM, new Identifier(BrendensGambling.MOD_ID, name),
                 new BlockItem(block, new Item.Settings()));
 
     }

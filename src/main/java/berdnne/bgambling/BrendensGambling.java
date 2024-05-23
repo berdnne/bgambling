@@ -1,5 +1,6 @@
 package berdnne.bgambling;
 
+import berdnne.bgambling.block.ModBlocks;
 import berdnne.bgambling.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -15,6 +16,8 @@ public class BrendensGambling implements ModInitializer {
 	public void onInitialize() {
 
 		ModItems.registerItems();
+		ModItems.registerItemGroups();
+		ModBlocks.registerModBlocks();
 
 	}
 }

@@ -1,12 +1,12 @@
 {
   "parent": "minecraft:block/cube",
   "textures": {
-    "down": "minecraft:block/oak_planks",
-    "east": "minecraft:block/crafting_table_side",
-    "north": "minecraft:block/crafting_table_front",
-    "particle": "minecraft:block/crafting_table_front",
-    "south": "minecraft:block/crafting_table_side",
-    "up": "minecraft:block/crafting_table_top",
-    "west": "minecraft:block/crafting_table_front"
+    "down": "bgambling:block/blackjack_table_bottom",
+    "east": "bgambling:block/blackjack_table_black",
+    "north": "bgambling:block/blackjack_table_red",
+    "particle": "bgambling:block/blackjack_table_bottom",
+    "south": "bgambling:block/blackjack_table_green",
+    "up": "minecraft:block/green_wool",
+    "west": "bgambling:block/blackjack_table_white"
   }
 }
