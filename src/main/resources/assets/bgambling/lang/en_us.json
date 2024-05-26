@@ -6,5 +6,7 @@
 
   "itemgroup.gambling": "Brenden's Gambling",
 
-  "block.bgambling.blackjack_table": "Blackjack Table"
+  "block.bgambling.blackjack_table": "Blackjack Table",
+
+  "container.blackjack_table": "Blackjack Table"
 }
